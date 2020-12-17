@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <title>Joker</title>
+    <style>
+        A {
+        color:green; /* Цвет текста */
+        padding: 2px; /* Поля вокруг текста */
+        }
+        body {
+        background: #24d884 url(Joker.png); /* Цвет фона и путь к файлу */
+        color:red; /* Цвет текста */
+        padding: 2px
+        }
+    </style>
+
+</head>
+<body>
+    <h1>Джо́кер</h1>
+    <p align="justify">  (c англ. Joker — шутник, балагур) — суперзлодей вселенной DC Comics, главный и заклятый враг[32] Бэтмена.
+    Джокер носит фиолетовый костюм и сражается при помощи предметов, 
+    которые стилизованы под реквизит клоуна и иллюзиониста.
+    </p>
+
+    <a href="HomeWork_1.2.html">Batman</a> <br>
+</body>
+</html>
